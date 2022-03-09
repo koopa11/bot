@@ -111,7 +111,7 @@ function check_filter($str){
 @$inlinebutton = json_encode([
     'inline_keyboard'=>[
            [
-        ['text'=>"",'url'=>"https://t.me/koopahack"]
+        ['text'=>"",'url'=>"https://t.me/family_omer_bot"]
      ],
    ]
    ]);
@@ -5707,7 +5707,7 @@ zan ممد
 ➖➖➖➖➖
 
 /panel admin
-💭دریافت پنل مدیریت ربات و ارسال پیام به گروه ها و ممبر ها
+??دریافت پنل مدیریت ربات و ارسال پیام به گروه ها و ممبر ها
 
 /panel group
 💭دریافت پنل مدیریت گروه های ربات
